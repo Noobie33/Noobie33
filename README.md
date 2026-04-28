@@ -13,7 +13,6 @@
 <!-- Profile Views & Followers Badges -->
 <img src="https://komarev.com/ghpvc/?username=Noobie33&label=Profile%20Views&color=6E40C9&style=flat-square" alt="Profile Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/Noobie33?label=Followers&style=flat-square&color=6E40C9" alt="Followers" />
 
 </div>
 
