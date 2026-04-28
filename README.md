@@ -142,11 +142,11 @@ Here you'll find my experiments, coursework projects, and personal builds. Mostl
 </a>
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/setu395/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="40" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.facebook.com/007setu.khan.3139/" target="_blank">
-  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40" />
+  <img src="https://skillicons.dev/icons?i=facebook&theme=dark" height="40" />
 </a>
 
 </div>
