@@ -26,22 +26,6 @@ Here you'll find my experiments, coursework projects, and personal builds. Mostl
 
 ---
 
-## 📦 My Config
-
-```json
-{
-  "username"   : "Noobie33",
-  "location"   : "Dhaka, Bangladesh 🇧🇩",
-  "learning"   : ["Web Development", "Software Engineering", "DSA"],
-  "languages"  : ["C", "C++", "C#", "Java", "Python", "PHP", "JavaScript"],
-  "interests"  : ["Clean Architecture", "Desktop Apps", "Open Source"],
-}
-```
-
-<br/>
-
----
-
 ## 🚀 Tech Stack
 
 <div align="center">
