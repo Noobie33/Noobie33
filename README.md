@@ -146,7 +146,7 @@ Here you'll find my experiments, coursework projects, and personal builds. Mostl
 </a>
 &nbsp;&nbsp;
 <a href="https://www.facebook.com/007setu.khan.3139/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook&theme=dark" height="40" />
+  <img src="https://cdn.simpleicons.org/facebook" height="40" />
 </a>
 
 </div>
