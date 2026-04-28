@@ -1,18 +1,18 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SHAZZAD%20HOSSAIN%20SETU&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=56&descAlign=50&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SHAZZAD%20HOSSAIN%20SETU&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Student%20%7C%20Developer%20%7C%20Problem%20Solver&descAlignY=56&descAlign=50&descSize=18" />
 
-<!-- Animated Typing -->
+<!-- Animated Typing — multi-line, personality-driven -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=620&lines=Full+Stack+Developer+%F0%9F%92%BB;C%23+%7C+Java+%7C+Python+%7C+PHP;Building+Elegant+Solutions+%F0%9F%9A%80;Always+shipping%2C+always+learning+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=700&lines=Hey+there!+I'm+Setu+%F0%9F%91%8B;A+curious+CS+student+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;I+write+code+to+understand+how+things+work+%F0%9F%94%8D;Currently+learning+%E2%80%94+one+bug+at+a+time+%F0%9F%90%9B;Building+things+that+(sometimes)+actually+work+%F0%9F%98…" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Noobie33&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Noobie33&label=Profile%20Views&color=7C3AED&style=flat-square" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/Noobie33?label=Followers&style=flat-square&color=7C3AED" alt="Followers" />
+<img src="https://img.shields.io/github/followers/Noobie33?label=Followers&style=flat-square&color=7C3AED" />
 
 </div>
 
@@ -20,20 +20,13 @@
 
 ---
 
-## 🧠 About Me
+## 👋 Who Am I?
 
-```json
-{
-  "name"       : "Shazzad Hossain Setu",
-  "username"   : "Noobie33",
-  "location"   : "Dhaka, Bangladesh 🇧🇩",
-  "role"       : "Developer & CS Student",
-  "learning"   : ["Web Development", "Software Engineering", "DSA"],
-  "languages"  : ["C", "C++", "C#", "Java", "Python", "PHP", "JavaScript"],
-  "interests"  : ["Clean Architecture", "Desktop Apps", "Open Source"],
-  "fun_fact"   : "I debug with coffee ☕ and determination 💪"
-}
-```
+I'm **Shazzad Hossain Setu** — a CS student from Bangladesh who genuinely enjoys the process of building things. Not just completing assignments, but actually *understanding* how stuff works under the hood.
+
+Here you'll find my experiments, coursework projects, and personal builds — mostly focused on **learning new technologies and doing something real with that knowledge**. Some of it is polished. A lot of it is messy. That's just how learning looks.
+
+> *"I'm not done learning — I'm just getting started."*
 
 <br/>
 
@@ -46,10 +39,10 @@
 ### Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js&perline=7&theme=dark" />
 
-### Frontend & Web
+### Web
 <img src="https://skillicons.dev/icons?i=html,css&perline=7&theme=dark" />
 
-### Databases & Backends
+### Databases & Servers
 <img src="https://skillicons.dev/icons?i=mysql,oracle,apache&perline=7&theme=dark" />
 
 ### Tools & IDEs
