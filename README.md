@@ -20,7 +20,7 @@
 
 I'm **Shazzad Hossain Setu** , a CS student from Bangladesh who genuinely enjoys the process of building things. Not just completing assignments, but actually *understanding* how stuff works under the hood.
 
-Here you'll find my experiments, coursework projects, and personal builds. Mostly focused on **learning new technologies and doing something real with that knowledge**. Some of it is polished. A lot of it is messy.
+Here you'll find my experiments, coursework projects, and personal builds. Mostly focused on **learning new technologies and doing something real with that knowledge**. Some of it is polished. A lot of it is messy yet.
 
 <br/>
 
